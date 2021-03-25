@@ -1,0 +1,10 @@
+// Implement Agent Communication Model
+
+MAS comt {
+
+    infrastructure: Centralised
+
+    environment: RoomEnv
+
+    agents: r1; r2;
+}
